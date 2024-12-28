@@ -105,5 +105,5 @@ David Mclaurel</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por David Tavares👋🏽 [Entre em contato!](https://www.linkedin.com/in/david-mclaurel/)
+
 
