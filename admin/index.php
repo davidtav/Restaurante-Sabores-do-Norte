@@ -16,7 +16,7 @@ if (!isset($_SESSION["usuario"])) {
 
     <title>Administrador</title>
     <!-- fav icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="../imagens/fav-icon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../public/assets/imagens/fav-icon/favicon-16x16.png">
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />

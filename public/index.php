@@ -45,7 +45,7 @@ if ($_POST) {
 <head>
     <title>Sabores do Norte</title>
     <!-- fav icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="imagens/fav-icon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/imagens/fav-icon/favicon-16x16.png">
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -93,7 +93,7 @@ if ($_POST) {
     </nav>
     <!-- Banner -->
     <section id="inicio" class="container-fluid p-0">
-        <div class="banner-img" style="position:relative; background:url('imagens/banners/wallpaper.png') center/cover no-repeat;height:400px ">
+        <div class="banner-img" style="position:relative; background:url('assets/imagens/banners/wallpaper.png') center/cover no-repeat;height:400px ">
 
             <div class="banner-text" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);text-align:center;color:#fff;">
 

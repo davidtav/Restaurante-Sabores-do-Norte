@@ -5,7 +5,7 @@ $erro = $_SESSION['error'] ?? null;
 unset($_SESSION['error']);
 ?>
 <!-- fav icon -->
-<link rel="icon" type="image/png" sizes="16x16" href="../../imagens/fav-icon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../public/assets/imagens/fav-icon/favicon-16x16.png">
 <div class="container">
     <div class="row">
         <div class="col"></div>
